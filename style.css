@@ -14,3 +14,7 @@ p {
     color: purple;
     
 }
+
+ol {
+     list-style-position: inside;
+}
