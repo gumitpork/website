@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Sans';
+    background: antiquewhite;
+    color: red;
+}
+
+p {
+    text-align: start;
+    color: purple;
+    
+}
